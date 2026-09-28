@@ -1,0 +1,6 @@
+{
+  "name": "Register",
+  "description": "A smart personal college attendance tracker with timetable setup, daily logging, 75% threshold calculations, and predictive skip planning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
