@@ -1,4 +1,4 @@
-# Register — Smart Attendance Tracker
+# Register: Smart Attendance Tracker
 
 > A personal college attendance management and analytics web app for tracking daily attendance, monitoring subject-wise performance, and planning attendance safely around a 75% target.
 
