@@ -25,7 +25,7 @@ The app is designed around a **75% minimum attendance target** and helps me unde
   - ❌ Absent
   - ⊖ Cancelled
   - 🔄 Substitute
-  - Any Other Case
+  - Any Other Case (Specify)
 - Navigate between previous and future dates.
 - Maintain a history of attendance records.
 
