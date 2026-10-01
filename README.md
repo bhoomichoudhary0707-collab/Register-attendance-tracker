@@ -2,7 +2,7 @@
 
 > A personal college attendance management and analytics web app for tracking daily attendance, monitoring subject-wise performance, and planning attendance safely around a 75% target.
 
-🔗 **Live Demo:** [Register — Smart Attendance](https://registersmart-attendance.ai.studio/)
+🔗 **Live Demo:** [Register — Smart Attendance](https://lodger.ai.studio)
 
 ---
 
